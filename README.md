@@ -1,2 +1,2 @@
-# Java
-This repository contains my solutions to beginner and intermediate Java programming challenges, focused on building logic and strengthening Java fundamentals.
+This repository contains 100 programming problems solved in Java, completed as part of my consistent problem-solving practice.
+The goal of this repo is to strengthen core Java concepts, logic building, and algorithmic thinking.
