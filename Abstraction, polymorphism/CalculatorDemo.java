@@ -5,23 +5,19 @@ called with different numbers of parameters */
 
 class Calculator {
 
-    // Add two integers
     int add(int a, int b) {
         return a + b;
     }
-
-    // Add three integers
+    
     int add(int a, int b, int c) {
         return a + b + c;
     }
 
-    // Add two doubles
     double add(double a, double b) {
         return a + b;
     }
 }
 
-// Main class
 public class CalculatorDemo {
     public static void main(String[] args) {
 
@@ -33,3 +29,4 @@ public class CalculatorDemo {
         System.out.println("Sum of 2 doubles: " + calc.add(2.5, 3.5));
     }
 }
+
