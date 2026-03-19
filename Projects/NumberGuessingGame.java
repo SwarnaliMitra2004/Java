@@ -4,7 +4,7 @@ public class NumberGuessingGame{
         Scanner sc = new Scanner(System.in);
         //Math.random() returns a random number between 0 and 1
         //Multiplying it by 100 gives a random number between 0 and 100
-        int number = (int)(100*Math.random() + 1); //why +1? adding 1 to make it between 1 and 100
+         int number = 1+(int)(100*Math.random()); 
         int k = 5; //number of guesses
         System.out.println("A number is between 1 and 100.Guess it!");
         System.out.println("You have 5 guesses.");
