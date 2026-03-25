@@ -29,4 +29,3 @@ public class CalculatorDemo {
         System.out.println("Sum of 2 doubles: " + calc.add(2.5, 3.5));
     }
 }
-
